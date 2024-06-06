@@ -5,12 +5,8 @@
 :ID:       957c6546-8f45-4e49-9161-59ff835894a0
 :END:
 
-[[attachment:_20240416_092109screenshot.png]]
 
+* Steps
+run the runall.sh file. 
 
-* Variations
-
-* Variations
-With the ensemble sized fixed for the adjusted model.
-** Data in Partition Construction
-** Data sorted into partition
+Changes are likely to be made for ease of use.
